@@ -105,3 +105,13 @@
 [링크 텍스트](링크 주소)     [이지스퍼블리싱](http://www.easyspub.co.kr)
 
 [링크 텍스트](링크 주소, "부가 설명")      [구글](https://google.com, "검색 사이트")
+
+<br>
+
+## 이미지
+
+Markdown - ![대체 텍스트](링크 주소)
+
+HTML - &lt;img src="" width="" height=""&gt;
+
+<img src="./images/coding.jpg" width="700" height="400">
